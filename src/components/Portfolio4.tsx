@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import hero from "../assets/images/banner.png";
 
-import portfolio02 from "../assets/images/portfolio02.png";
+
 import portfolio13 from "../assets/images/portfolio13.png";
 
 import portfolio14 from "../assets/images/portfolio14.png";
